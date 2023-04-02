@@ -1,3 +1,4 @@
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace project_ef.Models;
@@ -8,7 +9,7 @@ public class Tarea
 	[Key]
 	public Guid TareaId {get;set;}
 
-	[ForeignKey("Categoria")]
+	[ForeignKey("CategoriaId")]
 	public Guid CategoriaId {get;set;}
 
 	[Required]

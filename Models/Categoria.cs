@@ -1,3 +1,4 @@
+using System.ComponentModel.DataAnnotations;
 namespace project_ef.Models;
 
 public class Categoria
