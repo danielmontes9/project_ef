@@ -1,14 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "1UMIGkRHwiqEdlkDgRgT35NHGYyz3L0501e6ngIUGiFslCgBcLp22yIdDm3fR2sfnbG0kYt4N7vnUEcgO2gAxg==",
+  "dgSpecHash": "KVXDY13SxJil+CO/bjC9sv+ba/cNG3xTz2W8iPzZQ9KiINQ3lODUXtmx137ATYDBABus0Cv+4BK+i2GyDweCqw==",
   "success": true,
   "projectFilePath": "/home/danielmontes/Documentos/danielmontes9/project_ef/project_ef.csproj",
   "expectedPackageFiles": [
+    "/home/danielmontes/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/home/danielmontes/.nuget/packages/microsoft.entityframeworkcore/6.0.15/microsoft.entityframeworkcore.6.0.15.nupkg.sha512",
     "/home/danielmontes/.nuget/packages/microsoft.entityframeworkcore.abstractions/6.0.15/microsoft.entityframeworkcore.abstractions.6.0.15.nupkg.sha512",
     "/home/danielmontes/.nuget/packages/microsoft.entityframeworkcore.analyzers/6.0.15/microsoft.entityframeworkcore.analyzers.6.0.15.nupkg.sha512",
+    "/home/danielmontes/.nuget/packages/microsoft.entityframeworkcore.design/6.0.15/microsoft.entityframeworkcore.design.6.0.15.nupkg.sha512",
     "/home/danielmontes/.nuget/packages/microsoft.entityframeworkcore.inmemory/6.0.15/microsoft.entityframeworkcore.inmemory.6.0.15.nupkg.sha512",
-    "/home/danielmontes/.nuget/packages/microsoft.entityframeworkcore.relational/6.0.12/microsoft.entityframeworkcore.relational.6.0.12.nupkg.sha512",
+    "/home/danielmontes/.nuget/packages/microsoft.entityframeworkcore.relational/6.0.15/microsoft.entityframeworkcore.relational.6.0.15.nupkg.sha512",
     "/home/danielmontes/.nuget/packages/microsoft.extensions.caching.abstractions/6.0.0/microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
     "/home/danielmontes/.nuget/packages/microsoft.extensions.caching.memory/6.0.1/microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
     "/home/danielmontes/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

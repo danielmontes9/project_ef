@@ -29,3 +29,5 @@
 /home/danielmontes/Documentos/danielmontes9/project_ef/obj/Debug/net6.0/ref/project_ef.dll
 /home/danielmontes/Documentos/danielmontes9/project_ef/obj/Debug/net6.0/project_ef.pdb
 /home/danielmontes/Documentos/danielmontes9/project_ef/obj/Debug/net6.0/project_ef.genruntimeconfig.cache
+/home/danielmontes/Documentos/danielmontes9/project_ef/bin/Debug/net6.0/Humanizer.dll
+/home/danielmontes/Documentos/danielmontes9/project_ef/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
