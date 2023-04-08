@@ -23,6 +23,8 @@ public class TareasContext: DbContext
 
 			categoria.Property(p => p.Descripcion);
 
+			categoria.Property(p => p.Peso);
+
 		});
 
 		modelBuilder.Entity<Tarea>(tarea => {
